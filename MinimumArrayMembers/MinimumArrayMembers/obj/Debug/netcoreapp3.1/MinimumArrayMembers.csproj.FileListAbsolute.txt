@@ -1,0 +1,13 @@
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.exe
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.deps.json
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.runtimeconfig.json
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.runtimeconfig.dev.json
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.dll
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\netcoreapp3.1\MinimumArrayMembers.pdb
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.csprojAssemblyReference.cache
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.csproj.CoreCompileInputs.cache
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.AssemblyInfoInputs.cache
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.AssemblyInfo.cs
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.dll
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.pdb
+D:\sources\AMC\MinimumArrayMembers\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\netcoreapp3.1\MinimumArrayMembers.genruntimeconfig.cache
